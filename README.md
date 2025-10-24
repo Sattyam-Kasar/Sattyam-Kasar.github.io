@@ -1,1 +1,2 @@
-# Sattyam-Kasar.github.io
+# 👋 Hi, I’m Satyam — an HPC Engineer passionate about high‑performance computing, distributed systems, and computational optimization. I love designing scalable architectures that push hardware and software limits to solve complex scientific and data‑intensive problems. When I’m not tuning clusters or writing parallel code, I explore emerging trends in AI acceleration and cloud‑native compute solutions.
+## I optimize compute clusters and code to make machines think — faster.   
