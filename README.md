@@ -1,2 +1,1 @@
-# 👋 Hi, I’m Satyam — an HPC Engineer passionate about high‑performance computing, distributed systems, and computational optimization. I love designing scalable architectures that push hardware and software limits to solve complex scientific and data‑intensive problems. When I’m not tuning clusters or writing parallel code, I explore emerging trends in AI acceleration and cloud‑native compute solutions.
-## I optimize compute clusters and code to make machines think — faster.   
+<img width="600" height="360" alt="image" src="https://github.com/user-attachments/assets/6922e58d-a51c-43ff-abc0-c4671c4c7d07" />
